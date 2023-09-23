@@ -74,7 +74,7 @@ class Node
 
 public class Solution
 {
-    //Create list to store in order traversal
+    //Create list to store in order binary tree traversal
     private List<int> nodes = new List<int>();
     public IList<int> InorderTraversal(TreeNode root)
     {
